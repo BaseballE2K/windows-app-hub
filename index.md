@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Windows App Hub
 
-You can use the [editor on GitHub](https://github.com/BaseballE2K/windows-app-hub/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can easily open any program in Windows App Hub. This is possible using Windows' capibility to open a program from a web page.
+You can see that in action [here](ms-calculator://)
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To recreate this website with your own programs, follow this template and add it to the button div in the file.
 
-```markdown
-Syntax highlighted code block
+```<a href="ms-calculator://"><button>Open MS Calculator</button</a>```
+ 
+ You can also use this website to use for Steam. You can also use URLs to open games, connect to servers and even view items!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BaseballE2K/windows-app-hub/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
